@@ -27,6 +27,13 @@ This bundle is based on [ClankBundle](https://github.com/JDare/ClankBundle).
 ## License
 
 GosWebSocketBundle is licensed under the MIT License. See the [LICENSE file](/LICENSE) for full details.
+## Acknowledgements
+
+This bundle is based on [ClankBundle](https://github.com/JDare/ClankBundle).
+
+## License
+
+GosWebSocketBundle is licensed under the MIT License. See the [LICENSE file](/LICENSE) for full details.
 
 
 
